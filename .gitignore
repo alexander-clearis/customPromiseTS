@@ -1,0 +1,8 @@
+# Project exclude paths
+/node_modules/
+/index.js
+/index.js.map
+/user.js
+/user.js.map
+/UserHelper.js
+/UserHelper.js.map
