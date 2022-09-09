@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomHelper.js","sourceRoot":"","sources":["../src/CustomHelper.ts"],"names":[],"mappings":";;;AAEA,MAAa,YAAY;IACrB,MAAM,CAAC,sBAAsB,CAAC,MAAsE;QAChG,OAAO,IAAI,OAAO,CAAC,CAAC,OAAgC,EAAE,MAAkB,EAAE,EAAE;YACxE,MAAM,CAAC,OAAO,EAAE,MAAM,CAAC,CAAC;QAC5B,CAAC,CAAC,CAAC;IACP,CAAC;CAEJ;AAPD,oCAOC"}

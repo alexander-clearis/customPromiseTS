@@ -1,10 +1,10 @@
 import {CustomPromise} from "./CustomPromise";
 import {Custom} from "./Custom";
-import {CustomAltPromise} from "./CustomAltPromise";
+import {CustomAnyPromise} from "./CustomAnyPromise";
 import {Empty} from "./Empty";
 //
 // new CustomPromise((resolve, reject) => {
 //     resolve(new Custom("Number1"));
 // }).customNew().customTHEN();
 
-new CustomAltPromise(resolve => resolve(new Custom("test"))).then(value => value.sayMyNameAndWait()).then()
+new CustomAnyPromise(resolve => resolve(new Custom("test"))).then(value => value.sayMyNameAndWait()).then()
